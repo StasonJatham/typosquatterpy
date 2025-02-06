@@ -46,7 +46,7 @@ is_domain_available(typo_domains)
 ❌ karlcomm.de
 ✅ krlcom.de
 ```
-
+<img width="422" alt="Bildschirmfoto 2025-02-06 um 09 51 21" src="https://github.com/user-attachments/assets/cbfed2c8-ca39-4d32-9233-e30223a74431" />
 ---
 
 ## ⚠️ Legal Notice
